@@ -14,14 +14,14 @@ Once the repo is successfully cloned, you should be able to run the test index.j
 
 Before you can make changes in your repl and push to the repo, you'll need to identify yourself to git:
 
-*git config --global user.email "you@example.com"
-git config --global user.name "Your First & Last Name"*
+```git config --global user.email "you@example.com"
+git config --global user.name "Your First & Last Name"```
 
 Once you've provided your identity, you should be able to add, commit and push changes:
 
-*git add .
+```git add .
 git commit -m "commit message here"
-git push*
+git push```
 
 You'll need to enter your credentials unless you want to use repl.it to manage your GitHub identity
 
