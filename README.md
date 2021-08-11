@@ -1,4 +1,4 @@
-# repo-with-repl-wn21-12
+# repo-with-repl-nodejs
 
 Import this repo to create a starting point for Node.js projects in repl.it.
 
