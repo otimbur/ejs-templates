@@ -2,7 +2,7 @@
 
 Import this repo to create a starting point for Node.js projects in repl.it.
 
-Once you have a copy of this repo imported, create a repl that has the same name to keep things straight.
+Once you have a copy of this repo imported, create a Node.js repl that has the same name to keep things straight.
 
 Delete index.js from the repl and clone your repo using a dot (period) at the end of the line to remove sub-folders:
 
