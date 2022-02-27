@@ -1,6 +1,6 @@
-# Cloning this repo to repl
+# Use this as a template for your Node.js projects in repl.it
 
-Import this repo to create a starting point for Node.js projects in repl.it.
+Import this repo to create a starting point for Node.js projects in repl.it, https://replit.com
 
 Store this repo and use it as a template when creating other Node.js files as it has the configuration files that repl.it needs to keep things straight and it has .gitignore files to keep node modules out of your repo.
 
