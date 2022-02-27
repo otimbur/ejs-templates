@@ -4,7 +4,7 @@ Import this repo to create a starting point for Node.js projects in repl.it, htt
 
 Store this repo and use it as a template when creating other Node.js files as it has the configuration files that repl.it needs to keep things straight and it has .gitignore files to keep node modules out of your repo.
 
-When you want to start a new Node.js project, import this project and name it to suit the project.
+When you want to start a new Node.js project, IMPORT (don't fork) this project and name it to suit the project.
 
 Then login to repl.it and when creating a new repl, be sure to select "Import from GitHub" and do not choose a type of repl.
 
